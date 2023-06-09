@@ -6,12 +6,21 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.src.Hub.API PreferredExecutionTarget="/Applications/Opera.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/Hub.API/Program.cs">
+    <Files>
+      <File FileName="src/Hub.API/Program.cs" Line="3" Column="25" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ScoreHub" expanded="True" selected="True">
-            <Node name="src" expanded="True" />
+          <Node name="ScoreHub" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="Hub.API" expanded="True">
+                <Node name="Controllers" expanded="True" />
+              </Node>
+              <Node name="Hub.Domain" expanded="True" />
+              <Node name="Hub.Infrastructure" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
