@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.API/Hub.Domain/Hub.Domain.csproj": {}
+    "/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Infrastructure/Hub.Infrastructure.csproj": {}
   },
   "projects": {
-    "/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.API/Hub.Domain/Hub.Domain.csproj": {
+    "/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Infrastructure/Hub.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.API/Hub.Domain/Hub.Domain.csproj",
-        "projectName": "Hub.Domain",
-        "projectPath": "/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.API/Hub.Domain/Hub.Domain.csproj",
+        "projectUniqueName": "/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Infrastructure/Hub.Infrastructure.csproj",
+        "projectName": "Hub.Infrastructure",
+        "projectPath": "/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Infrastructure/Hub.Infrastructure.csproj",
         "packagesPath": "/Users/narminalieva/.nuget/packages/",
-        "outputPath": "/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.API/Hub.Domain/obj/",
+        "outputPath": "/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/narminalieva/.nuget/NuGet/NuGet.Config"
