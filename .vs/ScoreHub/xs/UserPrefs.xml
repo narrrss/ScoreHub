@@ -1,20 +1,42 @@
 ﻿<Properties StartupConfiguration="{680B81B2-7114-47B1-95EC-E072A2CC2E85}|https">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.src.Hub.API PreferredExecutionTarget="/Applications/Opera.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/Hub.Domain/Context/ScorehubDbContext.cs">
+    <Files>
+      <File FileName="src/Hub.API/Configuration/DatabaseSetup.cs" Line="20" Column="16" />
+      <File FileName="src/Hub.API/appsettings.Docker.json" Line="1" Column="1" />
+      <File FileName="src/Hub.API/Program.cs" Line="15" Column="27" />
+      <File FileName="src/Hub.API/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="src/Hub.API/appsettings.Demo.json" Line="5" Column="2" />
+      <File FileName="src/Hub.Domain/Context/ScorehubDbContext.cs" Line="28" Column="91" />
+      <File FileName="src/Hub.API/appsettings.json" Line="7" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ScoreHub" expanded="True" selected="True">
-            <Node name="src" expanded="True" />
+          <Node name="ScoreHub" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="Hub.API" expanded="True">
+                <Node name="Configuration" expanded="True" />
+                <Node name="appsettings.json" expanded="True" />
+              </Node>
+              <Node name="Hub.Domain" expanded="True">
+                <Node name="Context" expanded="True">
+                  <Node name="ScorehubDbContext.cs" selected="True" />
+                </Node>
+                <Node name="Entities" expanded="True" />
+                <Node name="Primitives" expanded="True" />
+              </Node>
+              <Node name="Hub.Infrastructure" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
