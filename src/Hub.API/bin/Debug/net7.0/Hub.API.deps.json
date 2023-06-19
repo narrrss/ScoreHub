@@ -14,6 +14,7 @@
           "Microsoft.EntityFrameworkCore": "7.0.5",
           "Microsoft.EntityFrameworkCore.Design": "7.0.5",
           "Microsoft.EntityFrameworkCore.Tools": "7.0.5",
+          "Npgsql": "7.0.4",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "7.0.4",
           "Serilog": "2.12.0",
           "Serilog.AspNetCore": "7.0.0",

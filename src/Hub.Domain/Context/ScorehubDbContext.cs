@@ -23,14 +23,10 @@ namespace Hub.Domain.Context
         public DbSet<Player> Players { get; set; }
         public DbSet<TeamPlayer> TeamPlayers { get; set; }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseNpgsql(_configuration.GetConnectionString("DefaultConnection"), npgsqlOptions =>
-            {
-                // options.SetPostgresVersion(new Version(ServerVersion.AutoDetect(connectionString).ToString()));
-                npgsqlOptions.MigrationsAssembly(typeof(ScorehubDbContext).Assembly.GetName().Name);
-            });
-        }
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //{
+        //    optionsBuilder.UseNpgsql(_configuration.GetConnectionString("DefaultConnection"));
+        //}
     }
 }
 

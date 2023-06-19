@@ -1,3 +1,4 @@
+using System;
 using Hub.API.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -9,7 +10,16 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddPostgresDbContext(builder.Configuration);
+
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection")
+    ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
+//builder.Services.AddDbContext<ApplicationDbContext>(options =>
+//    options.UseNpgsql(connectionString));
+
+
+builder.Services.AddPostgresDbContext(connectionString);
+
+
 builder.Host.UseLoggingSetup(builder.Configuration);
 
 var app = builder.Build();
