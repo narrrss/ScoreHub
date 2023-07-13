@@ -12,7 +12,8 @@ namespace Hub.API.Configuration
 
             services.AddEntityFrameworkNpgsql().AddDbContext<ScorehubDbContext>(options =>
             {
-                options.UseNpgsql(connectionString);
+                options.UseNpgsql(connectionString, b => b.MigrationsAssembly(typeof(ScorehubDbContext).Assembly.FullName));
+
             });
 
             return services;

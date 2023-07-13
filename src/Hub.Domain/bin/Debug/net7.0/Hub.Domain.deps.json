@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v7.0": {
       "Hub.Domain/1.0.0": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": "7.0.5",
           "Microsoft.EntityFrameworkCore.Design": "7.0.5",
           "Microsoft.EntityFrameworkCore.Tools": "7.0.5",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "7.0.4",

@@ -10,3 +10,5 @@
 /Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Infrastructure/obj/Debug/net7.0/refint/Hub.Infrastructure.dll
 /Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Infrastructure/obj/Debug/net7.0/Hub.Infrastructure.pdb
 /Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Infrastructure/obj/Debug/net7.0/ref/Hub.Infrastructure.dll
+/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Infrastructure/bin/Debug/net7.0/Hub.Infrastructure.runtimeconfig.json
+/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Infrastructure/obj/Debug/net7.0/Hub.Infrastructure.genruntimeconfig.cache

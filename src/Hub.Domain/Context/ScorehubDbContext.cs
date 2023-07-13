@@ -2,6 +2,7 @@
 using Hub.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Options;
 
 namespace Hub.Domain.Context
 {
@@ -25,7 +26,8 @@ namespace Hub.Domain.Context
 
         //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         //{
-        //    optionsBuilder.UseNpgsql(_configuration.GetConnectionString("DefaultConnection"));
+        //    optionsBuilder.UseNpgsql(_configuration.GetConnectionString("DefaultConnection"),
+        //        b => b.MigrationsAssembly("Hub.Domain"));
         //}
     }
 }
