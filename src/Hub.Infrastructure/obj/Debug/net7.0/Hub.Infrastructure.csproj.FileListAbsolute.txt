@@ -1,0 +1,31 @@
+/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Infrastructure/bin/Debug/net7.0/Hub.Infrastructure.deps.json
+/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Infrastructure/bin/Debug/net7.0/Hub.Infrastructure.dll
+/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Infrastructure/bin/Debug/net7.0/Hub.Infrastructure.pdb
+/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Infrastructure/obj/Debug/net7.0/Hub.Infrastructure.csproj.AssemblyReference.cache
+/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Infrastructure/obj/Debug/net7.0/Hub.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Infrastructure/obj/Debug/net7.0/Hub.Infrastructure.AssemblyInfoInputs.cache
+/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Infrastructure/obj/Debug/net7.0/Hub.Infrastructure.AssemblyInfo.cs
+/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Infrastructure/obj/Debug/net7.0/Hub.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Infrastructure/obj/Debug/net7.0/Hub.Infrastructure.dll
+/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Infrastructure/obj/Debug/net7.0/refint/Hub.Infrastructure.dll
+/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Infrastructure/obj/Debug/net7.0/Hub.Infrastructure.pdb
+/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Infrastructure/obj/Debug/net7.0/ref/Hub.Infrastructure.dll
+<<<<<<< Updated upstream
+/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Infrastructure/bin/Debug/net7.0/Hub.Infrastructure.runtimeconfig.json
+/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Infrastructure/obj/Debug/net7.0/Hub.Infrastructure.genruntimeconfig.cache
+=======
+>>>>>>> Stashed changes
+/Users/narminalieva/Desktop/ScoreHub/src/Hub.Infrastructure/bin/Debug/net7.0/Hub.Infrastructure.deps.json
+/Users/narminalieva/Desktop/ScoreHub/src/Hub.Infrastructure/bin/Debug/net7.0/Hub.Infrastructure.runtimeconfig.json
+/Users/narminalieva/Desktop/ScoreHub/src/Hub.Infrastructure/bin/Debug/net7.0/Hub.Infrastructure.dll
+/Users/narminalieva/Desktop/ScoreHub/src/Hub.Infrastructure/bin/Debug/net7.0/Hub.Infrastructure.pdb
+/Users/narminalieva/Desktop/ScoreHub/src/Hub.Infrastructure/obj/Debug/net7.0/Hub.Infrastructure.csproj.AssemblyReference.cache
+/Users/narminalieva/Desktop/ScoreHub/src/Hub.Infrastructure/obj/Debug/net7.0/Hub.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/narminalieva/Desktop/ScoreHub/src/Hub.Infrastructure/obj/Debug/net7.0/Hub.Infrastructure.AssemblyInfoInputs.cache
+/Users/narminalieva/Desktop/ScoreHub/src/Hub.Infrastructure/obj/Debug/net7.0/Hub.Infrastructure.AssemblyInfo.cs
+/Users/narminalieva/Desktop/ScoreHub/src/Hub.Infrastructure/obj/Debug/net7.0/Hub.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/narminalieva/Desktop/ScoreHub/src/Hub.Infrastructure/obj/Debug/net7.0/Hub.Infrastructure.dll
+/Users/narminalieva/Desktop/ScoreHub/src/Hub.Infrastructure/obj/Debug/net7.0/refint/Hub.Infrastructure.dll
+/Users/narminalieva/Desktop/ScoreHub/src/Hub.Infrastructure/obj/Debug/net7.0/Hub.Infrastructure.pdb
+/Users/narminalieva/Desktop/ScoreHub/src/Hub.Infrastructure/obj/Debug/net7.0/Hub.Infrastructure.genruntimeconfig.cache
+/Users/narminalieva/Desktop/ScoreHub/src/Hub.Infrastructure/obj/Debug/net7.0/ref/Hub.Infrastructure.dll

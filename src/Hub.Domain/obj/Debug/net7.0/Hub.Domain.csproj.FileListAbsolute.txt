@@ -1,0 +1,31 @@
+<<<<<<< Updated upstream
+=======
+/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Domain/bin/Debug/net7.0/Hub.Domain.deps.json
+/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Domain/bin/Debug/net7.0/Hub.Domain.dll
+/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Domain/bin/Debug/net7.0/Hub.Domain.pdb
+>>>>>>> Stashed changes
+/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Domain/obj/Debug/net7.0/Hub.Domain.csproj.AssemblyReference.cache
+/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Domain/obj/Debug/net7.0/Hub.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Domain/obj/Debug/net7.0/Hub.Domain.AssemblyInfoInputs.cache
+/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Domain/obj/Debug/net7.0/Hub.Domain.AssemblyInfo.cs
+/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Domain/obj/Debug/net7.0/Hub.Domain.csproj.CoreCompileInputs.cache
+/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Domain/obj/Debug/net7.0/Hub.Domain.dll
+/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Domain/obj/Debug/net7.0/refint/Hub.Domain.dll
+/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Domain/obj/Debug/net7.0/Hub.Domain.pdb
+/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Domain/obj/Debug/net7.0/ref/Hub.Domain.dll
+/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Domain/bin/Debug/net7.0/Hub.Domain.runtimeconfig.json
+/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.Domain/obj/Debug/net7.0/Hub.Domain.genruntimeconfig.cache
+/Users/narminalieva/Desktop/ScoreHub/src/Hub.Domain/bin/Debug/net7.0/Hub.Domain.deps.json
+/Users/narminalieva/Desktop/ScoreHub/src/Hub.Domain/bin/Debug/net7.0/Hub.Domain.runtimeconfig.json
+/Users/narminalieva/Desktop/ScoreHub/src/Hub.Domain/bin/Debug/net7.0/Hub.Domain.dll
+/Users/narminalieva/Desktop/ScoreHub/src/Hub.Domain/bin/Debug/net7.0/Hub.Domain.pdb
+/Users/narminalieva/Desktop/ScoreHub/src/Hub.Domain/obj/Debug/net7.0/Hub.Domain.csproj.AssemblyReference.cache
+/Users/narminalieva/Desktop/ScoreHub/src/Hub.Domain/obj/Debug/net7.0/Hub.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/narminalieva/Desktop/ScoreHub/src/Hub.Domain/obj/Debug/net7.0/Hub.Domain.AssemblyInfoInputs.cache
+/Users/narminalieva/Desktop/ScoreHub/src/Hub.Domain/obj/Debug/net7.0/Hub.Domain.AssemblyInfo.cs
+/Users/narminalieva/Desktop/ScoreHub/src/Hub.Domain/obj/Debug/net7.0/Hub.Domain.csproj.CoreCompileInputs.cache
+/Users/narminalieva/Desktop/ScoreHub/src/Hub.Domain/obj/Debug/net7.0/Hub.Domain.dll
+/Users/narminalieva/Desktop/ScoreHub/src/Hub.Domain/obj/Debug/net7.0/refint/Hub.Domain.dll
+/Users/narminalieva/Desktop/ScoreHub/src/Hub.Domain/obj/Debug/net7.0/Hub.Domain.pdb
+/Users/narminalieva/Desktop/ScoreHub/src/Hub.Domain/obj/Debug/net7.0/Hub.Domain.genruntimeconfig.cache
+/Users/narminalieva/Desktop/ScoreHub/src/Hub.Domain/obj/Debug/net7.0/ref/Hub.Domain.dll

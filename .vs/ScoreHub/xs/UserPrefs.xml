@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{680B81B2-7114-47B1-95EC-E072A2CC2E85}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/Hub.API/Controllers/NewsController.cs">
+    <Files>
+      <File FileName="src/Hub.API/Program.cs" />
+      <File FileName="src/Hub.API/Controllers/NewsController.cs" Line="40" Column="1" />
+      <File FileName="src/Hub.API/Configuration/LoggingSetup.cs" Line="16" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ScoreHub" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="Hub.API">
+                <Node name="Configuration" expanded="True" />
+                <Node name="Controllers" expanded="True">
+                  <Node name="NewsController.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/narminalieva/Desktop/repos/ScoreHub/src/Hub.API/Controllers/NewsController.cs" relfile="src/Hub.API/Controllers/NewsController.cs" line="40" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.src.Hub.API PreferredExecutionTarget="/Applications/Opera.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
